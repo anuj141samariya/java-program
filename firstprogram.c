@@ -4,6 +4,6 @@ void main()
 {
 	printf("hello");
 	printf("hi");
-	print("hi");
+	print("its experimental");
 	
 }
